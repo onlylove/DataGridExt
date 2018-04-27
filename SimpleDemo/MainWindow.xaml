@@ -1,0 +1,12 @@
+﻿<Window x:Class="SimpleDemo.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:ext="clr-namespace:DataGridExtensions"
+        Title="MainWindow" Height="600" Width="800">
+    <Grid>
+        <!--
+        <ext:ExtDataGrid IsFilteringCaseSensitive="False" ItemsSource="{Binding}" IsReadOnly="True" AutoGenerateColumns="True" x:Name="dataGrid1"/>
+        -->
+  
+    </Grid>
+</Window>
